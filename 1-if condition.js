@@ -6,3 +6,5 @@ if (amount < 10 ) {
 }else {
     console.log( 'this is big number');
 }
+
+console.log(` t`)
